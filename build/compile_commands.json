@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/balllerz21/CLionProjects/Project6/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -g -std=gnu++14 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -o CMakeFiles/Project6.dir/hashmap.cpp.o -c /Users/balllerz21/CLionProjects/Project6/hashmap.cpp",
+  "file": "/Users/balllerz21/CLionProjects/Project6/hashmap.cpp",
+  "output": "CMakeFiles/Project6.dir/hashmap.cpp.o"
+},
+{
+  "directory": "/Users/balllerz21/CLionProjects/Project6/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -g -std=gnu++14 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -o CMakeFiles/Project6.dir/main.cpp.o -c /Users/balllerz21/CLionProjects/Project6/main.cpp",
+  "file": "/Users/balllerz21/CLionProjects/Project6/main.cpp",
+  "output": "CMakeFiles/Project6.dir/main.cpp.o"
+}
+]
